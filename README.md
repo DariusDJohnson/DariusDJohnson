@@ -8,8 +8,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dariusdjohnsonc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dariusdjohnson/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="darius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/darius-johnson-351a67215

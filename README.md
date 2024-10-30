@@ -7,6 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DariusDJohnson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DariusDJohnson/azure-network-protocols)
+  - Azure Sentinel | SIEM Map with Live Cyber Attacks 
 
 <h2>Connect with me:</h2>
 

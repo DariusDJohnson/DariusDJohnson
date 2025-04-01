@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darius
+<h1>Darius Johnson's IT & Cybersecurity Portfolio
 <h2>👨‍💻Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -8,3 +8,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DariusDJohnson/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DariusDJohnson/azure-network-protocols)
   - [Azure Sentinel | SIEM Map with Live Cyber Attacks](https://github.com/DariusDJohnson/siem)
+- <b>Vulnerability Management</b>
+  - [Vulnerability Management Program Implementation](https://github.com/DariusDJohnson/Vulnerability-Management-Program-Implementation)
+  
